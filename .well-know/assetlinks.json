@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.fulanodetaldevecual.miscellaneous",
+            "sha256_cert_fingerprints": [
+                "72:EE:E7:12:FC:9B:E1:6A:47:4E:3E:EF:41:56:CA:14:6A:54:09:FA:30:2B:22:EB:33:72:E0:BF:B5:9D:50:EB"
+            ]
+        }
+    }
+]
