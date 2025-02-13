@@ -1,0 +1,25 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "9ZF9Q9T6F9.com.fulanodetaldevecualloper.miscellaneous"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {
+                        "/": "/*"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "9ZF9Q9T6F9.com.fulanodetaldevecualloper.miscellaneous"
+        ]
+    }
+}
